@@ -20,5 +20,8 @@
     "plugins": [
       "transform-async-to-generator"
     ]
+  },
+  "dependencies": {
+    "denodeify": "^1.2.1"
   }
 }
